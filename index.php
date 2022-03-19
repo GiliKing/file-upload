@@ -68,7 +68,7 @@
 
   <div class="form-label-group">
     <input type="file" id="inputEmail" class="form-control" name='file_upload' autofocus>
-    <label for="inputEmail">Upload Photo</label>
+    <label for="inputEmail">Upload Photo llll</label>
   </div>
 
   <!-- <div class="form-label-group">
